@@ -1,0 +1,7 @@
+#Fri Apr 07 14:28:50 BST 2017
+base.0=/Users/q5233000/Android-GoogleDirectionLibrary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_146074733d976b1cb71c862a98a41db301eb04ed
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/q5233000/Android-GoogleDirectionLibrary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f6af5bf5d871280b9d16e98b520b9c92029d94c5/classes.dex
+base.1=/Users/q5233000/Android-GoogleDirectionLibrary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f6af5bf5d871280b9d16e98b520b9c92029d94c5
+file.0=/Users/q5233000/Android-GoogleDirectionLibrary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_146074733d976b1cb71c862a98a41db301eb04ed/classes.dex
